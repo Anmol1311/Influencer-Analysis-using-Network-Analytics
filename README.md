@@ -1,7 +1,7 @@
 # Influencer-Analysis-using-Network-Analytics
 
 ## Project Overview
-In this project, we aim to utilize the tweets activity data of different users to identify the top 20 influencers among all users. We also explore how profits change when an analytical model is employed to identify influencers through a hypothehical scenario.
+In this project, we utilized the tweets activity data of different users to identify the top 20 influencers among all the users. We also explore how profits change when an analytical model is employed to identify influencers through a hypothehical scenario.
 
 #### Part-1
 We utilized a Kaggle dataset containing tweets data to build a model to predict influencers. Each observation in the dataset describes two individuals A and B. 'Choice' column in each row shows who among A or B are more influential.
@@ -16,9 +16,8 @@ We utilised another file containing tweets of different users. We used the influ
 CSV files attached
 
 ## Tools Used
-- Python: For data processing and analysis.
-- Libraries: Pandas,Nltk,Gensim NumPy, Scikit-learn, Matplotlib
-- Word2Vec vectorizer
+- Python
+- Network Analytics
 
-## Medium Article
-https://medium.com/@agrawalanmol4273/navigating-the-cinematic-universe-introducing-the-two-way-movie-recommender-system-0dc79ebe59d6
+## Business Use Case
+Businesses can leverage the insights from our model whenever there is a new product launch or a new Social Media Marketing Campaign by identifying the most influential individuals as predicted by the model who can influence a larger population. This will enable them to maximize their outreach as well as return on investments.
